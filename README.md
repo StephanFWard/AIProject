@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the code and resources for an AI project focused on detecting bright flashes in images. The goal is to identify instances of explosions, fires, or cloudy smoke in photos.
+This repository contains the code and resources for an AI project focused on detecting bright flashes in images. The goal is to identify instances of explosions, fires, or cloudy smoke in photos. OR THE REVERSE COULD BE TRUE :)
 
 ## Project Structure
 
