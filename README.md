@@ -19,19 +19,26 @@ This repository contains the code and resources for an AI project focused on det
 - JupyterLab
 - Required Python libraries (install them using `pip install -r requirements.txt`):
 
-  ```bash
+  ```
   pip install -r requirements.txt
+  ```
 
   Clone the repository:
+  ```
   git clone https://github.com/StephanFWard/AIProject.git
   cd AIProject
+  ```
 
   Set up a virtual environment (optional but recommended):
+  ```
   python -m venv venv
   source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+  ```
 
   Install dependencies:
+  ```
   pip install -r requirements.txt
+  ```
 
   Open JupyterLab:
 
@@ -40,5 +47,5 @@ This repository contains the code and resources for an AI project focused on det
   Model Deployment
   For deploying the trained model, we recommend using TensorFlow Serving. Follow the steps in the deployment guide for detailed instructions.
 
-  *Image training library not included in repo.
+  Note: Image training library not included in repo.
   
