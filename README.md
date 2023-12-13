@@ -39,4 +39,6 @@ This repository contains the code and resources for an AI project focused on det
 
   Model Deployment
   For deploying the trained model, we recommend using TensorFlow Serving. Follow the steps in the deployment guide for detailed instructions.
+
+  *Image training library not included in repo.
   
